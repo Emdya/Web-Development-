@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage
+        </title>
+        <style>
+        html{
+            background-color: rgb(7, 64, 89);
+            color: rgb(255, 250, 255);
+        }
+           .Description{
+               background-color:rgb(107, 115, 21);
+           }
+           #List1 {
+               color: rgb(54, 126, 130);
+           }
+           #List2{
+               color: rgb(54,126,130);
+           }
+           h1{
+               color:rgb(54,126,130);
+           }
+        </style>
+    </head>
+    <body>
+        <h1>Enjoy being a Panther At <br> Florida International   University! </h1>
+        <h4> By Emdya Permuy-Llovio</h4>
+        <img src = "https://upload.wikimedia.org/wikipedia/en/1/1d/FIU_Panthers_logo.svg" alt="FIU Logo" height="200" width = "500" >
+        <h2 id = "List1"> Top Five Things to Do at the <br>
+            Madique A. Modesto Campus (MMC)
+        </h2>
+        <ol> <!--Start of numbered list!-->
+            <li> <h3> Interact with classmates <br> outside of class at the<strong> Graham Center (GC).<!--Title of bullet point one!--> </strong></h3> <p class="Description"> The GC offers several amenities for students: several restaurants, a game room, several tables & seatings, stores, & activities hosted by FIU student-led organizations.<em> (head over to <strong> PantherConnect </strong>  to learn more about student clubs)</em></p> <!--End of bullet point 1!-->
+             <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/FIU_plaza.JPG" alt = "Image of the Graham Center" height = "300">
+            </li>
+            <li> <h3> Take advantage of the <strong>Wellness & Recreation Center </strong> that is <strong> completely free for current FIU students (students taking classes during the current semester)<!--Title of bullet point two!--> </strong> </h3> <p class="Description"> The <strong> Wellness & Recreation Center </strong>is home to a variety of facilities, ensuring that all FIU students have access to fitness & exercise. There are indoor studios for classes (pilates, cycling, ballet, etc.), weightlifting equipment, an indoor track for running, & more! </p> <!--End of bullet point two !-->
+            </li>
+            <li><h3> Formulate study groups with friends at the <strong> Steven & Dorothea Green Library </strong></h3><!--Title of bullet point three !-->  <p class="Description"> The <strong> Steven & Dorothea Green Library </strong> is absolutely perfect for individuals who seek comfortable indoor areas to study, remain productive, & acquire motivation by the spacious & movie-like architecture of the area. Students have access to computer labs, printers, scanners, & other technology resources.The well-lit areas of seating, provide accessbility to students to collaborate with others; furthermore, students can reserve a private study space with their study buddies.</p> <!--End of bullet point three !-->
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/FIU_OE.JPG" alt = "image of Green Library" height = "300">
+            </li>
+            <li><h3> Take a break from studying, visit the beautiful <strong> Patricia & Phillip Frost Art Museum </strong> located right on campus!</h3><!--Title of bullet point four !--> <p class="Description"> The <strong> Patricia & Phillip Frost Art Museum </strong> is home to over <strong> 6,000 pieces of art </strong> (That's a pretty big number!). Visitors & FIU students alike can enter with <strong> free admission</strong>. Not only do students have access to witness fully encapsulating works of creativity, students may also acquire volunteer experience, internships, & jobs by participating with events hosted at the museum.</p><!--End of bullet point four!-->
+            <img src="https://upload.wikimedia.org/wikipedia/en/0/0f/FIU_Frost_Art_Museum.JPG" alt="File:FIU Frost Art Museum.JPG" alt = "Image of the outside of the Frost Museum at FIU" height="300">
+            </li>
+            <li><h3> Advance your career, by attending career fairs, networking events, & workshops hosted by the <strong> Career & Talent Development Office.</strong></h3><!--Title of bullet point five!--> <p class="Description">Ultimately, your experience at any University, will depend on what <em> you </em> take away from it. You <strong> need </strong> to take charge of your own experiences at an educational institution, especially one such as <strong> FIU </strong>, an institution that provides <em>100%  free access to resume workshops, networking events, tickets to conferences such as eMerge Americas </em> & several other events that can enhance your marketability as a professional.</p><!--End of bullet point five!--> 
+            </li>
+        </ol><!--End of the top 5 things to do list!-->
+        <h2 id = "List2"><!--Title for the Reasons Why I Enjoy FIU list!-->
+            Reasons Why I Enjoy Florida <br> International University
+        </h2>
+        <ul>
+            <li> Appealing environment, with several peaceful areas to study on campus, indoors & outdoors.<br><br></li>
+            
+            <li> Abundance of organizations to progress my Computer Science career forward, such as INIT FIU, WICS FIU, & SGA FIU.<br><br> </li>
+            <li> Guidance provided by the academic advisors at FIU.<br><br> </li>
+            <li> Social Events hosted such as Panther Camp, Homecoming, FIU Orientation, & Roarthon. </li>
+            <li> The number of classes to choose from (e.g Educational Technology, Global Learning Courses, Introduction to Artificial Intelligence, & Game Programming).<br><br>
+            <li> Games to play with friends in the game room, located at the GC Center.<br><br>  </li>
+            <li> Merchandise, books, a coffee shop, & study spaces, located at the Barnes and Nobles present on campus.<br><br> </li>
+            <li> Numerous ports & outlets to charge devices, located all around campus.<br><br> </li>
+            <li> Even more coffee on campus,due to the access to two Starbucks cafes.<br><br>
+            </li>
+            <li> Accessibility to financial aid packages & payment for tuition, through the list of scholarships on the FIU online scholarship database.<br><br> </li>
+            <li> Diversity & inclusion, due to the noteworthy presence of students from all backgrounds & cultures. </li> </ul> <!--End of Reasons why I Enjoy FIU list !-->
+    </body>
+</html>
